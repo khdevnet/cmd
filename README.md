@@ -11,4 +11,4 @@ $ gcb [base branch name] [new branch name] - checkout new branch from lates in b
 ```
 
 #### Resources
-* [Doskey cmd aliases updator](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/doskey)
+* [Doskey cmd aliases](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/doskey)
