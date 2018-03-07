@@ -1,0 +1,1 @@
+gcb=git checkout $1$tgit pull$tgit checkout -b $2
