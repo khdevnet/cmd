@@ -1,3 +1,8 @@
+## CMD Utilities
+```
+tracert –d www.unh.edu
+```
+
 ## CMD Aliases
 #### Configure Aliases From CMD
 doskey gcb=git checkout $1$tgit pull$tgit checkout -b $2
