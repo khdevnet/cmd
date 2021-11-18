@@ -1,0 +1,4 @@
+## Remove folders
+```
+Get-ChildItem .\ -include bin,obj,node_modules -Recurse | foreach ($_) { remove-item $_.fullname -Force -Recurse }
+```
